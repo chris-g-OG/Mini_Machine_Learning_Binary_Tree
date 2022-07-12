@@ -3,7 +3,7 @@ import os
 from rich.console import Console
 from rich.table import Table
 
-# path = "/home/chris/PycharmProjects/txt_words_treeds_listed"
+# path = "/home/chris/Dir"
 path = os.getcwd()
 os.chdir(path)
 
